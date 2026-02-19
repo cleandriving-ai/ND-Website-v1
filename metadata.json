@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PipeForce - Trenchless & CIPP Specialists",
+  "description": "Premium React application for a CIPP pipe lining and trenchless repair company, featuring SEO-optimized landing pages, navy and safety orange design, and an AI-powered diagnostic assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
